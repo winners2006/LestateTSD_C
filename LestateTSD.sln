@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LestateTSD", "LestateTSD.csproj", "{B1C2727F-CC38-4351-B705-9314896AD90D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1C2727F-CC38-4351-B705-9314896AD90D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1C2727F-CC38-4351-B705-9314896AD90D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1C2727F-CC38-4351-B705-9314896AD90D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B1C2727F-CC38-4351-B705-9314896AD90D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1C2727F-CC38-4351-B705-9314896AD90D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1C2727F-CC38-4351-B705-9314896AD90D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78DCCD0B-F91F-4805-A707-86DA803CD620}
+	EndGlobalSection
+EndGlobal
